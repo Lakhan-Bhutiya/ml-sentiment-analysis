@@ -23,11 +23,16 @@ A machine learning web app that classifies tweets as **Positive** or **Negative*
 
 ## 📂 File Structure
 
-ml-sentiment-analysis/
+ml-sentiment-analysis
+
 ├── app.py # Streamlit web app
+
 ├── logistic.pkl # Trained Logistic Regression model
+
 ├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
