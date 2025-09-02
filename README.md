@@ -2,7 +2,7 @@
 
 A machine learning web app that classifies tweets as **Positive** or **Negative** using Natural Language Processing (NLP) techniques and a Logistic Regression model. Built using Python, Scikit-learn, and deployed via Streamlit.
 
----
+--- 
 
 ##  Live Demo
 
